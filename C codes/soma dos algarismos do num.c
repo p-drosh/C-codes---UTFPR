@@ -2,7 +2,7 @@
 
 int main(void){
 
-    int num, uni, dec, soma=0;
+    int num, soma=0;
 
     do{
         printf(" Insira um número: ");
